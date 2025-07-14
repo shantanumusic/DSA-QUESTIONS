@@ -51,13 +51,4 @@ void main(){
       printf("%d\t%d\t%d\t%d\t%d\t%d\t", processId[i], arrivalTime[i],burstTime[i],completionTime[i],turnAroundTime[i],waitingTime[i]);
       printf("\n");
    }
-   
-    
-    
-    
-
-
-
-
-
 }
